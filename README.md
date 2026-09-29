@@ -60,5 +60,4 @@ I learn by building, so most of what's here is me working something out by makin
 - 🔨 Building projects in ML systems, AI engineering, and low-latency systems
 
 ### Find me
-- [LinkedIn](https://linkedin.com/in/miguel-tjia)
 - [GitHub](https://github.com/mtjia6)
