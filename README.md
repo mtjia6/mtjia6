@@ -1,13 +1,15 @@
 # Hi, I'm Miguel 👋
 
-I'm a second-year **Mathematics & Computer Science** student at **Georgia Tech**. I'm interested in software engineering, machine learning, and quantitative finance.
+I'm a second-year **Mathematics & Computer Science** student at **Georgia Tech**. I'm interested in software engineering, ML systems, AI engineering, low-latency systems, and inference.
 
 I learn by building, so most of what's here is me working something out by making it.
 
 ### What I'm into
-- **Software engineering:** full-stack web, backend systems, and how things behave in production
-- **Machine learning:** understanding models from the math up
-- **Quant:** backtesting, market data, and keeping my own results honest
+- **Software engineering:** backend systems and how they behave in production
+- **ML systems:** the infrastructure that trains and serves models
+- **AI engineering:** building production LLM and agentic systems
+- **Low-latency systems:** measuring and cutting tail latency
+- **Inference:** making models fast and cheap to serve
 
 ### Tools
 
@@ -24,7 +26,6 @@ I learn by building, so most of what's here is me working something out by makin
 **Frameworks & Backend**
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
@@ -53,11 +54,10 @@ I learn by building, so most of what's here is me working something out by makin
 ![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat&logo=argo&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 
 ### Currently
 - 📚 Studying Math & CS @ Georgia Tech
-- 🔨 Building projects across SWE, ML, and quant
+- 🔨 Building projects in ML systems, AI engineering, and low-latency systems
 
 ### Find me
 - [LinkedIn](https://linkedin.com/in/miguel-tjia)
