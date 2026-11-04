@@ -1,6 +1,6 @@
 # Hi, I'm Miguel 👋
 
-I'm a second-year **Mathematics & Computer Science** student at **Georgia Tech**. I'm interested in software engineering, ML systems, AI engineering, low-latency systems, and inference.
+ I'm interested in software engineering, ML systems, AI engineering, low-latency systems, and inference.
 
 I learn by building, so most of what's here is me working something out by making it.
 
@@ -56,7 +56,6 @@ I learn by building, so most of what's here is me working something out by makin
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 ### Currently
-- 📚 Studying Math & CS @ Georgia Tech
 - 🔨 Building projects in ML systems, AI engineering, and low-latency systems
 
 ### Find me
